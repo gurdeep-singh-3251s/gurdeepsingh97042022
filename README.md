@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gurdeepsingh97042022.
+- 👋 Hi, I’m Gurdeep Singh.
 - 👀 I’m interested in coding,web development.
 - 🌱 I’m currently learning Javascript,dsa.
 - 💞️ I’m looking to collaborate with some organisation.
